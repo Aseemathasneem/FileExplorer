@@ -21,6 +21,5 @@ Reusable Code: Used custom hooks to abstract and reuse logic across components.
 
 1.Open the [File Explorer Project on CodeSandbox.io](https://codesandbox.io/p/github/Aseemathasneem/FileExplorer/draft/billowing-dew?workspaceId=ws_RVVpLN4krFvBChrXLPX75o).  
 2. Add, rename, or delete files and folders to explore its functionality.  
-Add, rename, or delete files and folders to explore its functionality.
 
 
